@@ -1,0 +1,28 @@
+Driver: GTiff/GeoTIFF
+Files: /var/www/html/commonsmap/rasteroutput/1511912650.tif
+       /var/www/html/commonsmap/rasteroutput/1511912650.tfw
+Size is 47, 37
+Coordinate System is:
+GEOGCS["WGS 84",
+    DATUM["WGS_1984",
+        SPHEROID["WGS 84",6378137,298.257223563,
+            AUTHORITY["EPSG","7030"]],
+        AUTHORITY["EPSG","6326"]],
+    PRIMEM["Greenwich",0],
+    UNIT["degree",0.0174532925199433],
+    AUTHORITY["EPSG","4326"]]
+Origin = (-121.938521517219996,37.427641488886003)
+Pixel Size = (0.000020660923191,-0.000020841791757)
+Metadata:
+  AREA_OR_POINT=Area
+Image Structure Metadata:
+  INTERLEAVE=BAND
+Corner Coordinates:
+Upper Left  (-121.9385215,  37.4276415) (121d56'18.68"W, 37d25'39.51"N)
+Lower Left  (-121.9385215,  37.4268703) (121d56'18.68"W, 37d25'36.73"N)
+Upper Right (-121.9375505,  37.4276415) (121d56'15.18"W, 37d25'39.51"N)
+Lower Right (-121.9375505,  37.4268703) (121d56'15.18"W, 37d25'36.73"N)
+Center      (-121.9380360,  37.4272559) (121d56'16.93"W, 37d25'38.12"N)
+Band 1 Block=47x37 Type=Int32, ColorInterp=Gray
+  
+  NoData Value=-9999
